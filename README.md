@@ -1,0 +1,1 @@
+# Edge-AI-Hexacopter-for-Industrial-Thermal-Anomaly-Detection-and-Mapping
